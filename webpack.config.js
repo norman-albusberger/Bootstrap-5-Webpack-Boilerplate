@@ -15,6 +15,7 @@ module.exports = {
 
     entry: {
         index: './src/js/index.js',
+        icons: './src/js/icons.js',
     },
     output: {
         filename: '[name].[hash].bundle.js',
