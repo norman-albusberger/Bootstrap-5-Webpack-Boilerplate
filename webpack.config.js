@@ -18,7 +18,7 @@ module.exports = {
         icons: './src/js/icons.js',
     },
     output: {
-        filename: '[name].[hash].bundle.js',
+        filename: '[name].[fullhash].bundle.js',
         path: path.resolve(__dirname, 'dist'),
         clean:true,
 
