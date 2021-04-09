@@ -12,7 +12,7 @@ npm i
 # Compile Sass
 npm run build
 
-# Start local server (uses sirv-cli)
+# Start local server (uses webpack devServer)
 npm start
 
 ```
